@@ -14,5 +14,4 @@ variable "bucketname" {
   type        = string
   description = "bucket information"
   default = "azdevops-gcptf-24"
-
 }

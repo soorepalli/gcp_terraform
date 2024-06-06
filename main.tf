@@ -2,8 +2,6 @@
   length = 8
 }
 
-#google cloud storage service
-// cloud storage bucket
 resource "google_storage_bucket" "tfstatefile" {
 
   name     = var.bucketname

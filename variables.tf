@@ -5,9 +5,9 @@ variable "region" {
 }
 
 variable "project" {
-  #type = string
+  type = string
   default = "cloud-practice-417601"
-  #description = "Project for Terraform Practise"
+  description = "Project for Terraform Practise"
 }
 
 variable "bucketname" {

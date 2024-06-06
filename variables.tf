@@ -13,6 +13,6 @@ variable "project" {
 variable "bucketname" {
   type        = string
   description = "bucket information"
-  bucketname = "gcptfpipeline2024"
+  default = "gcptfpipeline2024"
 
 }

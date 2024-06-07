@@ -13,5 +13,5 @@ variable "project" {
 variable "bucketname" {
   type        = string
   description = "bucket information"
-  default = "tfpractiseaz-2024"
+  default = "tfpractiseaz-bucket-2024"
 }

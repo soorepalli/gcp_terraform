@@ -13,5 +13,5 @@ variable "project" {
 variable "bucketname" {
   type        = string
   description = "bucket information"
-  default = "gcptf-az-bucket-2024"
+  default = "gcptf-az1-bucket-2024"
 }
